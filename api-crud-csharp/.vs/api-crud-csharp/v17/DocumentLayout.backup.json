@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\migrations\\20240910004050_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:migrations\\20240910004050_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|c:\\projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99F4C09D-91F6-4403-B7B0-BEC082F6DB66}|api-crud-csharp.csproj|solutionrelative:api-crud-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240910004050_Initial.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Migrations\\20240910004050_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240910004050_Initial.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Migrations\\20240910004050_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240910004050_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:40:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:26:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T00:19:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:16:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:03:34.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:00:19.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api-crud-csharp.csproj",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj",
+              "RelativeDocumentMoniker": "api-crud-csharp.csproj",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj",
+              "RelativeToolTip": "api-crud-csharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T23:59:50.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

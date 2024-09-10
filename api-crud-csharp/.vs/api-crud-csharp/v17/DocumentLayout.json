@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Migrations\\20240910004050_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240910004050_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api-crud-csharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240910004050_Initial.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Migrations\\20240910004050_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240910004050_Initial.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Migrations\\20240910004050_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240910004050_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:40:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:26:28.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T00:19:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:16:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:03:34.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:00:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api-crud-csharp.csproj",
+              "DocumentMoniker": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj",
+              "RelativeDocumentMoniker": "api-crud-csharp.csproj",
+              "ToolTip": "C:\\Projects\\crud-api-csharp\\api-crud-csharp\\api-crud-csharp.csproj",
+              "RelativeToolTip": "api-crud-csharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T23:59:50.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

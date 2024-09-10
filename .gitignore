@@ -1,0 +1,10 @@
+*.suo
+*.user
+*.cache
+*.tmp
+*.log
+*.obj
+
+appsettings.json
+**appsettings.Development.json**
+**secrets.json**
